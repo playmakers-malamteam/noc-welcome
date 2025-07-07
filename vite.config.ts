@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/vite-noc-welcome/',
+  base: '/noc-welcome/',
   plugins: [react(),
     tailwindcss()
   ],

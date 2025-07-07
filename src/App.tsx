@@ -28,7 +28,7 @@ function App() {
               curveAmount={370}
               speed={3}
             interactive={false}
-            className=" text-[6rem] tracking-[5px] uppercase leading-none text-[#B7F6FF "
+            className=" text-[6rem] tracking-[5px] uppercase leading-none text-[#B7F6FF] "
             />
             </span>
         </div>
